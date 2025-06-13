@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Tech enthusiast and Web3<br>📚 Currently learning Go<br>🎯 Goals: Build smtg cool ig</p>
+<p align="left">✨ Tech and Web3 enthusiast<br>📚 Currently learning Go<br>🎯 Goals: Build smtg cool ig</p>
 
 ###
 
